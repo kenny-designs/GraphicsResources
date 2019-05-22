@@ -4,6 +4,7 @@ A collection of resources for graphics programming
 ## Awesomes
 *Various awesomes across GitHub to help you with your 3D graphics adventure*
 
+* [awesome](https://github.com/sindresorhus/awesome) An amazing collection of just about everything is is likely where the rest of the awesomes in this list came from
 * [awesome-opengl](https://github.com/eug/awesome-opengl)
 
 ## Tutorials

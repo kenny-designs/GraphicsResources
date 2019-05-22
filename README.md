@@ -17,3 +17,8 @@ A collection of resources for graphics programming
 *Projects that you can try to help master your craft*
 
 * [Graphics Programming Projects](http://graphicscodex.com/projects/projects/) various project ideas by Morgan McGuire
+
+## Terminology
+*What words means*
+
+* [Glossary of 3D Terms](http://www.timaxmedia.com/html/help/Glossary_of_3D_Terms_.htm)
